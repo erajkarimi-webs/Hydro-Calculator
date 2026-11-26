@@ -1,0 +1,6 @@
+{
+  "name": "AquaCalcs",
+  "description": "Professional engineering calculation suite for water resources, environmental, hydrologic, wastewater, and energy systems with peer-reviewed formulas and interactive visual models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
